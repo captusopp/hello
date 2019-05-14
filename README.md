@@ -1,2 +1,2 @@
-This project will help me to learn git.
-2019.05.14
+This project will help me to learn git,come on.
+2019.05.14.
